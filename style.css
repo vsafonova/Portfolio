@@ -265,10 +265,10 @@ img {
   margin: 20px auto;
 }
 
-.content-container:hover {
+/* .content-container:hover {
   text-decoration: underline;
   color: var(--blue);
-}
+} */
 
 .content-container h2 {
   text-decoration: underline;
